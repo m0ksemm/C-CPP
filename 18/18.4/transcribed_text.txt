@@ -1,0 +1,5 @@
+this is a small piece of text that 
+I want to encrypt. after encryption, 
+it will be copied to a new file. then 
+it will be decrypted and copied into 
+the resulting file≈e
